@@ -11,6 +11,11 @@ h1{
 	font-size: 20px;
 }
 
+h2{
+	font-family: Didot;
+	font-size: 15px;
+}
+
 p{
 	font-family:Optima;
 	font-size: 15px;
@@ -23,5 +28,32 @@ img{
 
 hr{
 	align: center;
-	width: 80%;
+	width: 90%;
 }
+
+#resume_info{
+	align: left;
+	font-family:Optima;
+}
+
+#indent{
+	margin-left: 20%;
+}
+
+#category{
+	font-weight: bold;
+	font-size: 17px;
+}
+
+#big_item{
+	font-weight: bold;
+	font-size: 15px;
+}
+
+#position{
+	font-size: 15px;
+	font-style: italic;
+}
+
+#description{
+	font-size: 15px;
